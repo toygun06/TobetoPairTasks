@@ -1,0 +1,14 @@
+C:\Users\toygu\source\repos\ClassKavramı\bin\Debug\net8.0\ClassKavramı.exe
+C:\Users\toygu\source\repos\ClassKavramı\bin\Debug\net8.0\ClassKavramı.deps.json
+C:\Users\toygu\source\repos\ClassKavramı\bin\Debug\net8.0\ClassKavramı.runtimeconfig.json
+C:\Users\toygu\source\repos\ClassKavramı\bin\Debug\net8.0\ClassKavramı.dll
+C:\Users\toygu\source\repos\ClassKavramı\bin\Debug\net8.0\ClassKavramı.pdb
+C:\Users\toygu\source\repos\ClassKavramı\obj\Debug\net8.0\ClassKavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toygu\source\repos\ClassKavramı\obj\Debug\net8.0\ClassKavramı.AssemblyInfoInputs.cache
+C:\Users\toygu\source\repos\ClassKavramı\obj\Debug\net8.0\ClassKavramı.AssemblyInfo.cs
+C:\Users\toygu\source\repos\ClassKavramı\obj\Debug\net8.0\ClassKavramı.csproj.CoreCompileInputs.cache
+C:\Users\toygu\source\repos\ClassKavramı\obj\Debug\net8.0\ClassKavramı.dll
+C:\Users\toygu\source\repos\ClassKavramı\obj\Debug\net8.0\refint\ClassKavramı.dll
+C:\Users\toygu\source\repos\ClassKavramı\obj\Debug\net8.0\ClassKavramı.pdb
+C:\Users\toygu\source\repos\ClassKavramı\obj\Debug\net8.0\ClassKavramı.genruntimeconfig.cache
+C:\Users\toygu\source\repos\ClassKavramı\obj\Debug\net8.0\ref\ClassKavramı.dll
