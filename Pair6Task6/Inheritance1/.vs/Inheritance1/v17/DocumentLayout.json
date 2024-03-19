@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toygu\\source\\repos\\OOP2\\Inheritance1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B164DF4C-B39E-4A2C-84C5-D4EAA8DD6F3B}|Inheritance1.csproj|c:\\users\\toygu\\source\\repos\\oop2\\inheritance1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B164DF4C-B39E-4A2C-84C5-D4EAA8DD6F3B}|Inheritance1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164DF4C-B39E-4A2C-84C5-D4EAA8DD6F3B}|Inheritance1.csproj|c:\\users\\toygu\\source\\repos\\oop2\\inheritance1\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B164DF4C-B39E-4A2C-84C5-D4EAA8DD6F3B}|Inheritance1.csproj|solutionrelative:brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B164DF4C-B39E-4A2C-84C5-D4EAA8DD6F3B}|Inheritance1.csproj|c:\\users\\toygu\\source\\repos\\oop2\\inheritance1\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B164DF4C-B39E-4A2C-84C5-D4EAA8DD6F3B}|Inheritance1.csproj|solutionrelative:model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 159,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\toygu\\source\\repos\\OOP2\\Inheritance1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\toygu\\source\\repos\\OOP2\\Inheritance1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:06:14.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\toygu\\source\\repos\\OOP2\\Inheritance1\\Model.cs",
+              "RelativeDocumentMoniker": "Model.cs",
+              "ToolTip": "C:\\Users\\toygu\\source\\repos\\OOP2\\Inheritance1\\Model.cs",
+              "RelativeToolTip": "Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:04:30.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\toygu\\source\\repos\\OOP2\\Inheritance1\\Brand.cs",
+              "RelativeDocumentMoniker": "Brand.cs",
+              "ToolTip": "C:\\Users\\toygu\\source\\repos\\OOP2\\Inheritance1\\Brand.cs",
+              "RelativeToolTip": "Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:58:18.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

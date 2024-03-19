@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\toygu\\source\\repos\\Polymorphism1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E003B6A7-AAE1-47CC-83B6-8B5EFCACDE09}|..\\Inheritance3\\Inheritance3.csproj|c:\\users\\toygu\\source\\repos\\inheritance3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD80306-7C16-4802-AA94-F6E32043D4E1}|..\\Inheritance2\\Inheritance2.csproj|c:\\users\\toygu\\source\\repos\\inheritance2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54535D60-FAD2-492A-AF3E-E8515A87BE5B}|..\\Inheritance1\\Inheritance1.csproj|c:\\users\\toygu\\source\\repos\\inheritance1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 159,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\toygu\\source\\repos\\Inheritance3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Inheritance3\\Program.cs",
+              "ToolTip": "C:\\Users\\toygu\\source\\repos\\Inheritance3\\Program.cs",
+              "RelativeToolTip": "..\\Inheritance3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:28:31.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\toygu\\source\\repos\\Inheritance2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Inheritance2\\Program.cs",
+              "ToolTip": "C:\\Users\\toygu\\source\\repos\\Inheritance2\\Program.cs",
+              "RelativeToolTip": "..\\Inheritance2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:28:06.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\toygu\\source\\repos\\Inheritance1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Inheritance1\\Program.cs",
+              "ToolTip": "C:\\Users\\toygu\\source\\repos\\Inheritance1\\Program.cs",
+              "RelativeToolTip": "..\\Inheritance1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:25:43.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

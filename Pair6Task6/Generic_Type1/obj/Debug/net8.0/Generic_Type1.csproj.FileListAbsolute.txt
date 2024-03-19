@@ -1,0 +1,14 @@
+C:\Users\toygu\source\repos\Generic_Type1\bin\Debug\net8.0\Generic_Type1.exe
+C:\Users\toygu\source\repos\Generic_Type1\bin\Debug\net8.0\Generic_Type1.deps.json
+C:\Users\toygu\source\repos\Generic_Type1\bin\Debug\net8.0\Generic_Type1.runtimeconfig.json
+C:\Users\toygu\source\repos\Generic_Type1\bin\Debug\net8.0\Generic_Type1.dll
+C:\Users\toygu\source\repos\Generic_Type1\bin\Debug\net8.0\Generic_Type1.pdb
+C:\Users\toygu\source\repos\Generic_Type1\obj\Debug\net8.0\Generic_Type1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toygu\source\repos\Generic_Type1\obj\Debug\net8.0\Generic_Type1.AssemblyInfoInputs.cache
+C:\Users\toygu\source\repos\Generic_Type1\obj\Debug\net8.0\Generic_Type1.AssemblyInfo.cs
+C:\Users\toygu\source\repos\Generic_Type1\obj\Debug\net8.0\Generic_Type1.csproj.CoreCompileInputs.cache
+C:\Users\toygu\source\repos\Generic_Type1\obj\Debug\net8.0\Generic_Type1.dll
+C:\Users\toygu\source\repos\Generic_Type1\obj\Debug\net8.0\refint\Generic_Type1.dll
+C:\Users\toygu\source\repos\Generic_Type1\obj\Debug\net8.0\Generic_Type1.pdb
+C:\Users\toygu\source\repos\Generic_Type1\obj\Debug\net8.0\Generic_Type1.genruntimeconfig.cache
+C:\Users\toygu\source\repos\Generic_Type1\obj\Debug\net8.0\ref\Generic_Type1.dll
